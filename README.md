@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040038
+# Name: Avinash Karthick B M
+# Date: 10/08/26
 
 
 # AIM:
@@ -48,11 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+<img width="1032" height="631" alt="image" src="https://github.com/user-attachments/assets/24f8df0a-8028-4aaf-9487-a8d7dcd86320" />
 
 # CLASS DIAGRAM
 
@@ -68,7 +64,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="1017" height="803" alt="image" src="https://github.com/user-attachments/assets/ed64053e-8dd0-4620-a1ea-51cd9a6579a7" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,8 +72,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="1035" height="432" alt="image" src="https://github.com/user-attachments/assets/6b8dd8ef-d2fa-4aff-bae0-cba5cf07def2" />
 
 # PACKAGE DIAGRAM:
 
@@ -87,12 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="987" height="962" alt="628227401-95648e89-6e04-4e02-bc3e-122e84a96359" src="https://github.com/user-attachments/assets/0b14f53f-fc24-40bc-89ac-4337680f0599" />
 
 # ACTIVITY DIAGRAM:
 
@@ -106,9 +96,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="708" height="957" alt="628227499-82d8119d-cf53-460b-b02a-e23e95f98285" src="https://github.com/user-attachments/assets/ae224795-91e4-4ac2-a09d-069af603bfa0" />
 
 # SEQUENCE DIAGRAM
 
@@ -127,9 +115,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
+<img width="1416" height="936" alt="628227585-4e94297f-eae4-40ea-83ce-af23b445f7a9" src="https://github.com/user-attachments/assets/b300cfab-9d68-45be-a8b3-721f882f4616" />
 
 
 # RESULT
